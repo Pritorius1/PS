@@ -1,0 +1,11 @@
+
+body{
+	background-image: url(banner.jpg);
+	background-size: 100% 100%;
+}
+.block {
+	height: 50px;
+}
+.txt{
+	font-size: 14px;
+}
